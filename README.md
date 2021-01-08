@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/wp529/FlowLayout.svg)](https://jitpack.io/#wp529/FlowLayout)
 ### FlowLaout
 
 支持收起、展开的流式布局
